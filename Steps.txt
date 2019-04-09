@@ -1,0 +1,5 @@
+1.  user should be able to register successfully
+2. User should be able to navigate to Nootebook catetory page(Computer>>Notebooks)
+3. User should be able to navigate cell phone page via Electronics>>Cellpohone
+4. User should be able to login Successfully.
+5. User should be able to add product to shopping cart
